@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm run start",
+  "devCommand": "npm run start",
+  "installCommand": "npm install"
+}
